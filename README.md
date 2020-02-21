@@ -31,7 +31,6 @@ If you are to lazy to eat out and constantly order in, what happens to all the "
 
 Simply follow the prompts on the app and enter the ingredients that you have on hand and "leftovers" will take care of the rest. In addition to just food "leftovers" lets you take drinks around the house and gives you ideas on how to make a tasty alchaholic beverage to go with the meal you just made.
 
-WHEN I click "click for more info" beneath each planet,
-THEN an area appears below with more information regarding that planet.
+![Image Description](https://github.com/Jrock312/leftovers/blob/master/assets/images/screenshot.png)
 
 
